@@ -1,0 +1,152 @@
+BUS BOOKING APP DESIGN
+
+Create a simple, clean, modern mobile UI/UX prototype for a Bus Ticket Booking System.
+
+Design 4 connected mobile screens in a single Figma file:
+
+1. HOME / SEARCH SCREEN
+- Title: "BUS BOOKING"
+- Subtitle: "Travel More · Worry Less"
+- Add a simple blue bus illustration near the top
+- From field: Chennai
+- To field: Bangalore
+- Journey Date: 10 Oct 2026
+- Large blue "SEARCH BUSES" button
+- Use rounded input boxes with icons
+- Clean white and light-gray background
+- Blue as the primary color
+- Modern, beginner-friendly UI
+
+2. AVAILABLE BUSES SCREEN
+- Header: "Available Buses"
+- Show route: Chennai → Bangalore
+- Create 4 bus cards:
+  - Express Travels — AC Sleeper · Volvo — 08:00 AM - 02:00 PM — ₹650
+  - City Travels — AC Seater · Volvo — 10:00 AM - 04:30 PM — ₹700
+  - Green Line — AC Seater · Scania — 11:30 AM - 06:30 PM — ₹750
+  - Skyline Travels — AC Sleeper · Volvo — 04:00 PM - 11:00 PM — ₹800
+- Each card should have a small bus image/icon and a blue "SELECT" button
+
+3. SEAT SELECTION SCREEN
+- Header: "Select Your Seat"
+- Show route: Chennai → Bangalore
+- Show selected bus: Express Travels
+- Show time: 08:00 AM - 02:00 PM
+- Show bus type: AC Sleeper
+- Display seats in a simple bus layout numbered 01 to 20
+- Arrange seats in two columns with a center aisle
+- Seat 06 should be selected/highlighted in blue
+- Show "Selected Seat: 6"
+- Show "Price: ₹650"
+- Add a large blue "CONFIRM SEAT" button
+
+4. BOOKING CONFIRMATION SCREEN
+- Header: "Booking Confirmation"
+- Large green checkmark
+- Text: "Booking Confirmed!"
+- Text: "Your ticket has been booked successfully."
+- Show booking details:
+  - Chennai → Bangalore
+  - Bus: Express Travels
+  - Date: 10 Oct 2026
+  - Time: 08:00 AM - 02:00 PM
+  - Seat: 6
+  - Bus Type: AC Sleeper
+  - Total Amount: ₹650
+- Add a blue "BOOK TICKET" button
+- Add a secondary "Back to Home" button
+
+DESIGN STYLE:
+- Mobile app UI
+- iPhone-style frames
+- Clean and professional
+- Beginner-friendly Figma design
+- White cards with subtle borders/shadows
+- Blue primary buttons
+- Rounded corners
+- Consistent spacing and typography
+- Use Inter font
+- Use simple outline icons
+- Keep all four screens visually consistent
+
+PROTOTYPE INTERACTIONS:
+- SEARCH BUSES → Available Buses
+- SELECT → Seat Selection
+- CONFIRM SEAT → Booking Confirmation
+- Back to Home → Home Screen
+
+Make the prototype suitable for a college UI/UX practical assignment. Keep the design simple enough that a student can understand and edit the individual elements in Figma.
+
+
+E-COMMERCE APP DESIGN
+
+Create a high-fidelity mobile E-Commerce app UI prototype called “ShopEase – Version A”.
+
+Design a clean, minimal, modern shopping app with a simple white background, very few colors, large product images, and simple navigation.
+
+Create 6 connected mobile screens in a single consistent design:
+
+1. Login Screen:
+- ShopEase logo at the top
+- “Welcome Back!” heading
+- Email and Password input fields
+- Forgot Password option
+- Simple primary “LOGIN” button
+- Sign Up option
+
+2. Home Screen:
+- “Good Morning!” greeting
+- Simple search bar with search icon
+- Categories: Fashion, Electronics, Shoes
+- “Today’s Deals” section
+- Large product cards with high-quality product images
+- Product name, rating and price
+- Minimal bottom navigation: Home, Wishlist, Cart, Profile
+
+3. Product Details Screen:
+- Large product image occupying most of the upper screen
+- Product name
+- Star rating
+- Current price and old price
+- Short product description
+- Color selection
+- Quantity selector
+- Simple “ADD TO CART” button
+
+4. Shopping Cart Screen:
+- Large product thumbnails
+- Product name and price
+- Quantity controls
+- Remove option
+- Subtotal, delivery fee and total
+- “PROCEED TO PAY” button
+
+5. Checkout Screen:
+- Delivery address section
+- Payment methods: UPI, Card, Cash on Delivery
+- Order summary
+- Total price
+- “PLACE ORDER” button
+
+6. Order Confirmation Screen:
+- Simple checkmark icon
+- “Order Placed Successfully!”
+- Order ID
+- Expected delivery date
+- “CONTINUE SHOPPING” button
+
+Visual style:
+- White background
+- Black/dark gray text
+- One subtle accent color only
+- Large clean product photography
+- Minimal shadows
+- Rounded but simple cards and buttons
+- Modern sans-serif typography
+- Plenty of whitespace
+- No unnecessary decorations
+- Clean outline icons
+- Consistent spacing and alignment
+- Professional Figma mobile-app prototype suitable for stakeholder review
+
+Make the UI look realistic, simple, user-friendly, and easy to compare with an alternative colorful Version B.
